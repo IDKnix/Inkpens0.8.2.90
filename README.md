@@ -6,6 +6,8 @@ in PowerShell and CMD.
 
 # Prerequisites
 
+Please, ignore any Windows warnings. I know they may be sketchy but just click More Info.. and click Run Anyway.
+
 You will need the Kotlin command line compiler. (Download at https://github.com/JetBrains/kotlin/releases/tag/v1.9.21)
 
 You will also need Java and JRE 17+
@@ -15,9 +17,9 @@ You will also need Java and JRE 17+
 Obviously, install it. Save it to a directory you will remember.
 
 1. Go to CMD and cd to your directory where your installation files are.
-2. Type .\userinstall.bat
-3. After it finishes, do java -jar ink.jar.
-4. Should run!
+2. Type .\userinstall.bat.
+4. After it finishes, do java -jar ink.jar.
+5. Should run!
 
 # PowerShell Tutorial
 
