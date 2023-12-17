@@ -9,7 +9,7 @@ in PowerShell and CMD.
 Obviously, install it. Save it to a directory you will remember.
 
 1. Go to CMD and cd to your directory where your installation files are.
-2. Type .\install.bat
+2. Type .\userinstall.bat
 3. After it finishes, do java -jar ink.jar.
 4. Should run!
 
