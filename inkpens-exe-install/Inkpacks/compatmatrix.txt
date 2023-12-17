@@ -1,0 +1,8 @@
+[ Main file ][ inkcloud version ][ Compatible? ]
+ Main_071.kt   inkcloud_071.kt        Yes
+ Main_064.kt   inkcloud_064.kt        Yes
+ Main_071.kt   inkcloud_064.kt        No
+ Main_064.kt   inkcloud_071.kt     Partially
+ Main_PRE.kt   inkcloud_PRE.kt        Yes
+ Main_PRE.kt   inkcloud_064.kt     Partially
+ Main_PRE.kt   inkcloud_071.kt     Partially
